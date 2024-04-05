@@ -66,3 +66,15 @@ Functions that add additional features to a component
     - Functions we write to make reusable bits of logic
     - Usually reuse basic hooks like useState, useEffect, etc
     - Can do a lot or very little
+
+### Use Callback Hook
+
+    - Hook to help you tell React taht your function isnt actually changing over time.
+    - Fixes bugs around useEffect and other similiar situations.
+    - Follows similiar conventions as useEffect
+    - If second argument is an empty array, useCallback gives you back the original funciton from first render.
+
+
+### CleanUp function
+
+    - Its a function that return useEffect and its executed the next time that component is re rendered before execute function inside useEffect (depending useEffect conditions)
