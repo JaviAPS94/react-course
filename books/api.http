@@ -1,0 +1,30 @@
+GET /books HTTP/1.1
+Host: localhost:3002
+Content-Type: application/json
+
+###
+
+POST /books HTTP/1.1
+Host: localhost:3002
+Content-Type: application/json
+
+{
+    "title": "The Catcher in the Rye"
+}
+
+###
+
+DELETE /books/1 HTTP/1.1
+Host: localhost:3002
+Content-Type: application/json
+
+###
+
+PUT /books/1 HTTP/1.1
+Host: localhost:3002
+Content-Type: application/json
+
+{
+    "title": "The Catcher in the Rye update"
+}
+
