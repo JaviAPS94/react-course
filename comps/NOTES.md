@@ -189,3 +189,19 @@ const handleClick = (nextIndex) => {
     1. Create a ref at the top of your component by calling 'useRef'
     2. Assign the ref to a JSX element as a prop called 'ref'
     3. Access that DOM element with 'ref.current'
+
+## position CSS property
+
+- Absolute
+
+    Puts the element
+
+    - At the top left corner of the closest parent with a position other than 'static'
+
+- className inset-0
+
+    - If the element is position: abosolute, the element will expand to fill the height and width of the closest parent with a non-static position.
+
+## Lipsum
+
+- https://www.lipsum.com/
