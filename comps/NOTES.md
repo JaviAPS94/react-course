@@ -205,3 +205,23 @@ const handleClick = (nextIndex) => {
 ## Lipsum
 
 - https://www.lipsum.com/
+
+## useReducer
+
+- Alternative to useState
+- Produces state
+- Changing this state makes component rerender
+- Useful when you have several different closely-related pieces of state
+- Useful when future state values depend on the current state
+
+### Similiar to useState
+
+    - useState: Each piece of state defined as a separate variable.
+    - useReducer: All state for the whole component defined in a single object.
+
+
+### Rules Around Reducer Funtions
+
+- Whatever you return will be your new state
+- If you return nothing, then your state will be undefined
+- No async/await, no request, no promises, no outside variables
