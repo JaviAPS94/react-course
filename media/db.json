@@ -29,6 +29,118 @@
       "name": "William Herzog"
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "id": "1",
+      "title": "Album 1",
+      "userId": "4156"
+    },
+    {
+      "id": "c63f",
+      "userId": "4156",
+      "title": "Unbranded Soft Chips"
+    },
+    {
+      "id": "d5d4",
+      "userId": "4156",
+      "title": "Elegant Steel Gloves"
+    },
+    {
+      "id": "c220",
+      "userId": "4156",
+      "title": "Incredible Granite Sausages"
+    },
+    {
+      "id": "0469",
+      "userId": "4156",
+      "title": "Luxurious Fresh Fish"
+    },
+    {
+      "id": "f496",
+      "userId": "4156",
+      "title": "Small Concrete Fish"
+    },
+    {
+      "id": "2631",
+      "userId": "4156",
+      "title": "Handmade Frozen Gloves"
+    },
+    {
+      "id": "cced",
+      "userId": "4156",
+      "title": "Oriental Frozen Towels"
+    },
+    {
+      "id": "7d48",
+      "userId": "4156",
+      "title": "Gorgeous Bronze Computer"
+    },
+    {
+      "id": "fd35",
+      "userId": "0571",
+      "title": "Handmade Frozen Gloves"
+    },
+    {
+      "id": "424b",
+      "userId": "0571",
+      "title": "Modern Steel Cheese"
+    },
+    {
+      "id": "4b4b",
+      "userId": "c4b9",
+      "title": "Intelligent Plastic Gloves"
+    }
+  ],
+  "photos": [
+    {
+      "id": "915d",
+      "albumId": "4b4b",
+      "photo": "https://loremflickr.com/150/150/abstract?lock=66564"
+    },
+    {
+      "id": "53ea",
+      "albumId": "1",
+      "photo": "https://loremflickr.com/150/150/abstract?lock=67744"
+    },
+    {
+      "id": "d6dc",
+      "albumId": "1",
+      "photo": "https://loremflickr.com/150/150/abstract?lock=36785"
+    },
+    {
+      "id": "6082",
+      "albumId": "1",
+      "photo": "https://loremflickr.com/150/150/abstract?lock=32346"
+    },
+    {
+      "id": "6aaa",
+      "albumId": "1",
+      "photo": "https://loremflickr.com/150/150/abstract?lock=27632"
+    },
+    {
+      "id": "c35a",
+      "albumId": "1",
+      "photo": "https://loremflickr.com/150/150/abstract?lock=41231"
+    },
+    {
+      "id": "58c9",
+      "albumId": "1",
+      "photo": "https://loremflickr.com/150/150/abstract?lock=46035"
+    },
+    {
+      "id": "eb49",
+      "albumId": "1",
+      "photo": "https://loremflickr.com/150/150/abstract?lock=32426"
+    },
+    {
+      "id": "b8e3",
+      "albumId": "c220",
+      "photo": "https://loremflickr.com/150/150/abstract?lock=71400"
+    },
+    {
+      "id": "f645",
+      "albumId": "c220",
+      "photo": "https://loremflickr.com/150/150/abstract?lock=63713"
+    }
+  ]
 }
